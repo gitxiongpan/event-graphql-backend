@@ -1,7 +1,7 @@
 {
   "env": {
-    "MONGO_USER": "kerry",
-    "MONGO_PASSWORD": "61CcY87L6jjBrqr3",
+    "MONGO_USER": "your-own-remote-mongoDB-username",
+    "MONGO_PASSWORD": "your-own-remote-mongoDB-password",
     "MONGO_DB": "events-react-dev"
   }
 }
